@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Demo_OOP_UI/Demo_OOP_UI.csproj" />
+  <Project Path="DEMO_POO_Props_Indexeurs/DEMO_POO_Props_Indexeurs.csproj" />
+  <Project Path="Heritage/Heritage.csproj" />
+</Solution>

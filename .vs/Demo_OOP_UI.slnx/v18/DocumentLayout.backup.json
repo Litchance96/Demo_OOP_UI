@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\c.eriksen\\source\\repos\\Demo_OOP_UI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFD2695-BA25-4412-BBC3-D80F67A16482}|Heritage\\Heritage.csproj|c:\\users\\c.eriksen\\source\\repos\\demo_oop_ui\\heritage\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AFD2695-BA25-4412-BBC3-D80F67A16482}|Heritage\\Heritage.csproj|solutionrelative:heritage\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFD2695-BA25-4412-BBC3-D80F67A16482}|Heritage\\Heritage.csproj|c:\\users\\c.eriksen\\source\\repos\\demo_oop_ui\\heritage\\models\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AFD2695-BA25-4412-BBC3-D80F67A16482}|Heritage\\Heritage.csproj|solutionrelative:heritage\\models\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFD2695-BA25-4412-BBC3-D80F67A16482}|Heritage\\Heritage.csproj|c:\\users\\c.eriksen\\source\\repos\\demo_oop_ui\\heritage\\models\\feline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AFD2695-BA25-4412-BBC3-D80F67A16482}|Heritage\\Heritage.csproj|solutionrelative:heritage\\models\\feline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFD2695-BA25-4412-BBC3-D80F67A16482}|Heritage\\Heritage.csproj|c:\\users\\c.eriksen\\source\\repos\\demo_oop_ui\\heritage\\models\\lion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AFD2695-BA25-4412-BBC3-D80F67A16482}|Heritage\\Heritage.csproj|solutionrelative:heritage\\models\\lion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFD2695-BA25-4412-BBC3-D80F67A16482}|Heritage\\Heritage.csproj|c:\\users\\c.eriksen\\source\\repos\\demo_oop_ui\\heritage\\models\\turtle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AFD2695-BA25-4412-BBC3-D80F67A16482}|Heritage\\Heritage.csproj|solutionrelative:heritage\\models\\turtle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFD2695-BA25-4412-BBC3-D80F67A16482}|Heritage\\Heritage.csproj|c:\\users\\c.eriksen\\source\\repos\\demo_oop_ui\\heritage\\enumscustom\\coattypeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AFD2695-BA25-4412-BBC3-D80F67A16482}|Heritage\\Heritage.csproj|solutionrelative:heritage\\enumscustom\\coattypeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFD2695-BA25-4412-BBC3-D80F67A16482}|Heritage\\Heritage.csproj|c:\\users\\c.eriksen\\source\\repos\\demo_oop_ui\\heritage\\models\\serval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AFD2695-BA25-4412-BBC3-D80F67A16482}|Heritage\\Heritage.csproj|solutionrelative:heritage\\models\\serval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFD2695-BA25-4412-BBC3-D80F67A16482}|Heritage\\Heritage.csproj|c:\\users\\c.eriksen\\source\\repos\\demo_oop_ui\\heritage\\models\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AFD2695-BA25-4412-BBC3-D80F67A16482}|Heritage\\Heritage.csproj|solutionrelative:heritage\\models\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BF50EC9-E5A4-4C83-A20B-2CC47C6A4888}|DEMO_POO_Props_Indexeurs\\DEMO_POO_Props_Indexeurs.csproj|c:\\users\\c.eriksen\\source\\repos\\demo_oop_ui\\demo_poo_props_indexeurs\\models\\charakter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BF50EC9-E5A4-4C83-A20B-2CC47C6A4888}|DEMO_POO_Props_Indexeurs\\DEMO_POO_Props_Indexeurs.csproj|solutionrelative:demo_poo_props_indexeurs\\models\\charakter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BF50EC9-E5A4-4C83-A20B-2CC47C6A4888}|DEMO_POO_Props_Indexeurs\\DEMO_POO_Props_Indexeurs.csproj|c:\\users\\c.eriksen\\source\\repos\\demo_oop_ui\\demo_poo_props_indexeurs\\models\\ausstattung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BF50EC9-E5A4-4C83-A20B-2CC47C6A4888}|DEMO_POO_Props_Indexeurs\\DEMO_POO_Props_Indexeurs.csproj|solutionrelative:demo_poo_props_indexeurs\\models\\ausstattung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2519C0C6-9EA4-4F76-9C7C-ACD6FE083B9F}|Demo_OOP_UI\\Demo_OOP_UI.csproj|c:\\users\\c.eriksen\\source\\repos\\demo_oop_ui\\demo_oop_ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2519C0C6-9EA4-4F76-9C7C-ACD6FE083B9F}|Demo_OOP_UI\\Demo_OOP_UI.csproj|solutionrelative:demo_oop_ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Feline.cs",
+              "DocumentMoniker": "C:\\Users\\c.eriksen\\source\\repos\\Demo_OOP_UI\\Heritage\\Models\\Feline.cs",
+              "RelativeDocumentMoniker": "Heritage\\Models\\Feline.cs",
+              "ToolTip": "C:\\Users\\c.eriksen\\source\\repos\\Demo_OOP_UI\\Heritage\\Models\\Feline.cs",
+              "RelativeToolTip": "Heritage\\Models\\Feline.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T12:36:48.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\c.eriksen\\source\\repos\\Demo_OOP_UI\\Heritage\\Models\\Animal.cs",
+              "RelativeDocumentMoniker": "Heritage\\Models\\Animal.cs",
+              "ToolTip": "C:\\Users\\c.eriksen\\source\\repos\\Demo_OOP_UI\\Heritage\\Models\\Animal.cs",
+              "RelativeToolTip": "Heritage\\Models\\Animal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T12:30:23.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Turtle.cs",
+              "DocumentMoniker": "C:\\Users\\c.eriksen\\source\\repos\\Demo_OOP_UI\\Heritage\\Models\\Turtle.cs",
+              "RelativeDocumentMoniker": "Heritage\\Models\\Turtle.cs",
+              "ToolTip": "C:\\Users\\c.eriksen\\source\\repos\\Demo_OOP_UI\\Heritage\\Models\\Turtle.cs",
+              "RelativeToolTip": "Heritage\\Models\\Turtle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T12:26:07.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Lion.cs",
+              "DocumentMoniker": "C:\\Users\\c.eriksen\\source\\repos\\Demo_OOP_UI\\Heritage\\Models\\Lion.cs",
+              "RelativeDocumentMoniker": "Heritage\\Models\\Lion.cs",
+              "ToolTip": "C:\\Users\\c.eriksen\\source\\repos\\Demo_OOP_UI\\Heritage\\Models\\Lion.cs",
+              "RelativeToolTip": "Heritage\\Models\\Lion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T12:21:02.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Serval.cs",
+              "DocumentMoniker": "C:\\Users\\c.eriksen\\source\\repos\\Demo_OOP_UI\\Heritage\\Models\\Serval.cs",
+              "RelativeDocumentMoniker": "Heritage\\Models\\Serval.cs",
+              "ToolTip": "C:\\Users\\c.eriksen\\source\\repos\\Demo_OOP_UI\\Heritage\\Models\\Serval.cs",
+              "RelativeToolTip": "Heritage\\Models\\Serval.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T12:16:14.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CoatTypeEnum.cs",
+              "DocumentMoniker": "C:\\Users\\c.eriksen\\source\\repos\\Demo_OOP_UI\\Heritage\\EnumsCustom\\CoatTypeEnum.cs",
+              "RelativeDocumentMoniker": "Heritage\\EnumsCustom\\CoatTypeEnum.cs",
+              "ToolTip": "C:\\Users\\c.eriksen\\source\\repos\\Demo_OOP_UI\\Heritage\\EnumsCustom\\CoatTypeEnum.cs",
+              "RelativeToolTip": "Heritage\\EnumsCustom\\CoatTypeEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T11:49:49.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "C:\\Users\\c.eriksen\\source\\repos\\Demo_OOP_UI\\Heritage\\Models\\Cat.cs",
+              "RelativeDocumentMoniker": "Heritage\\Models\\Cat.cs",
+              "ToolTip": "C:\\Users\\c.eriksen\\source\\repos\\Demo_OOP_UI\\Heritage\\Models\\Cat.cs",
+              "RelativeToolTip": "Heritage\\Models\\Cat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T11:43:41.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Users\\c.eriksen\\source\\repos\\Demo_OOP_UI\\Heritage\\Models\\Dog.cs",
+              "RelativeDocumentMoniker": "Heritage\\Models\\Dog.cs",
+              "ToolTip": "C:\\Users\\c.eriksen\\source\\repos\\Demo_OOP_UI\\Heritage\\Models\\Dog.cs",
+              "RelativeToolTip": "Heritage\\Models\\Dog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T11:34:19.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Ausstattung.cs",
+              "DocumentMoniker": "C:\\Users\\c.eriksen\\source\\repos\\Demo_OOP_UI\\DEMO_POO_Props_Indexeurs\\Models\\Ausstattung.cs",
+              "RelativeDocumentMoniker": "DEMO_POO_Props_Indexeurs\\Models\\Ausstattung.cs",
+              "ToolTip": "C:\\Users\\c.eriksen\\source\\repos\\Demo_OOP_UI\\DEMO_POO_Props_Indexeurs\\Models\\Ausstattung.cs",
+              "RelativeToolTip": "DEMO_POO_Props_Indexeurs\\Models\\Ausstattung.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T09:15:44.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Charakter.cs",
+              "DocumentMoniker": "C:\\Users\\c.eriksen\\source\\repos\\Demo_OOP_UI\\DEMO_POO_Props_Indexeurs\\Models\\Charakter.cs",
+              "RelativeDocumentMoniker": "DEMO_POO_Props_Indexeurs\\Models\\Charakter.cs",
+              "ToolTip": "C:\\Users\\c.eriksen\\source\\repos\\Demo_OOP_UI\\DEMO_POO_Props_Indexeurs\\Models\\Charakter.cs",
+              "RelativeToolTip": "DEMO_POO_Props_Indexeurs\\Models\\Charakter.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAowEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T08:07:51.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\c.eriksen\\source\\repos\\Demo_OOP_UI\\Demo_OOP_UI\\Program.cs",
+              "RelativeDocumentMoniker": "Demo_OOP_UI\\Program.cs",
+              "ToolTip": "C:\\Users\\c.eriksen\\source\\repos\\Demo_OOP_UI\\Demo_OOP_UI\\Program.cs",
+              "RelativeToolTip": "Demo_OOP_UI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T08:01:29.006Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
