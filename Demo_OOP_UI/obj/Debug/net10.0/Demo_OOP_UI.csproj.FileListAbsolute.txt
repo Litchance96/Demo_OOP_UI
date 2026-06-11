@@ -16,3 +16,6 @@ C:\Users\c.eriksen\source\repos\Demo_OOP_UI\Demo_OOP_UI\obj\Debug\net10.0\refint
 C:\Users\c.eriksen\source\repos\Demo_OOP_UI\Demo_OOP_UI\obj\Debug\net10.0\Demo_OOP_UI.pdb
 C:\Users\c.eriksen\source\repos\Demo_OOP_UI\Demo_OOP_UI\obj\Debug\net10.0\Demo_OOP_UI.genruntimeconfig.cache
 C:\Users\c.eriksen\source\repos\Demo_OOP_UI\Demo_OOP_UI\obj\Debug\net10.0\ref\Demo_OOP_UI.dll
+C:\Users\c.eriksen\source\repos\Demo_OOP_UI\Demo_OOP_UI\bin\Debug\net10.0\DEMO_POO_Constructeur.dll
+C:\Users\c.eriksen\source\repos\Demo_OOP_UI\Demo_OOP_UI\bin\Debug\net10.0\DEMO_POO_Constructeur.pdb
+C:\Users\c.eriksen\source\repos\Demo_OOP_UI\Demo_OOP_UI\obj\Debug\net10.0\Demo_OOP_UI.sourcelink.json

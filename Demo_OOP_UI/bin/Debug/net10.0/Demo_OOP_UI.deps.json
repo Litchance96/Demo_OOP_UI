@@ -8,10 +8,19 @@
     ".NETCoreApp,Version=v10.0": {
       "Demo_OOP_UI/1.0.0": {
         "dependencies": {
+          "DEMO_POO_Constructeur": "1.0.0",
           "DEMO_POO_Props_Indexeurs": "1.0.0"
         },
         "runtime": {
           "Demo_OOP_UI.dll": {}
+        }
+      },
+      "DEMO_POO_Constructeur/1.0.0": {
+        "runtime": {
+          "DEMO_POO_Constructeur.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "DEMO_POO_Props_Indexeurs/1.0.0": {
@@ -26,6 +35,11 @@
   },
   "libraries": {
     "Demo_OOP_UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DEMO_POO_Constructeur/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

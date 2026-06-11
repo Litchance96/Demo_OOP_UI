@@ -1,7 +1,17 @@
 {
-  "version": 3,
+  "version": 4,
   "targets": {
     "net10.0": {
+      "DEMO_POO_Constructeur/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/DEMO_POO_Constructeur.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DEMO_POO_Constructeur.dll": {}
+        }
+      },
       "DEMO_POO_Props_Indexeurs/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v10.0",
@@ -15,6 +25,11 @@
     }
   },
   "libraries": {
+    "DEMO_POO_Constructeur/1.0.0": {
+      "type": "project",
+      "path": "../DEMO_POO_Constructeur/DEMO_POO_Constructeur.csproj",
+      "msbuildProject": "../DEMO_POO_Constructeur/DEMO_POO_Constructeur.csproj"
+    },
     "DEMO_POO_Props_Indexeurs/1.0.0": {
       "type": "project",
       "path": "../DEMO_POO_Props_Indexeurs/DEMO_POO_Props_Indexeurs.csproj",
@@ -23,6 +38,7 @@
   },
   "projectFileDependencyGroups": {
     "net10.0": [
+      "DEMO_POO_Constructeur >= 1.0.0",
       "DEMO_POO_Props_Indexeurs >= 1.0.0"
     ]
   },
@@ -54,6 +70,9 @@
           "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {
+            "C:\\Users\\c.eriksen\\source\\repos\\Demo_OOP_UI\\DEMO_POO_Constructeur\\DEMO_POO_Constructeur.csproj": {
+              "projectPath": "C:\\Users\\c.eriksen\\source\\repos\\Demo_OOP_UI\\DEMO_POO_Constructeur\\DEMO_POO_Constructeur.csproj"
+            },
             "C:\\Users\\c.eriksen\\source\\repos\\Demo_OOP_UI\\DEMO_POO_Props_Indexeurs\\DEMO_POO_Props_Indexeurs.csproj": {
               "projectPath": "C:\\Users\\c.eriksen\\source\\repos\\Demo_OOP_UI\\DEMO_POO_Props_Indexeurs\\DEMO_POO_Props_Indexeurs.csproj"
             }
@@ -70,7 +89,7 @@
         "auditLevel": "low",
         "auditMode": "all"
       },
-      "SdkAnalysisLevel": "10.0.200"
+      "SdkAnalysisLevel": "10.0.300"
     },
     "frameworks": {
       "net10.0": {
@@ -92,7 +111,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.204/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",

@@ -9,3 +9,4 @@ C:\Users\c.eriksen\source\repos\Demo_OOP_UI\DEMO_POO_Props_Indexeurs\obj\Debug\n
 C:\Users\c.eriksen\source\repos\Demo_OOP_UI\DEMO_POO_Props_Indexeurs\obj\Debug\net10.0\refint\DEMO_POO_Props_Indexeurs.dll
 C:\Users\c.eriksen\source\repos\Demo_OOP_UI\DEMO_POO_Props_Indexeurs\obj\Debug\net10.0\DEMO_POO_Props_Indexeurs.pdb
 C:\Users\c.eriksen\source\repos\Demo_OOP_UI\DEMO_POO_Props_Indexeurs\obj\Debug\net10.0\ref\DEMO_POO_Props_Indexeurs.dll
+C:\Users\c.eriksen\source\repos\Demo_OOP_UI\DEMO_POO_Props_Indexeurs\obj\Debug\net10.0\DEMO_POO_Props_Indexeurs.sourcelink.json
