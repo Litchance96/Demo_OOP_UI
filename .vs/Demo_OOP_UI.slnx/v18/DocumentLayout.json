@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\c.eriksen\\source\\repos\\Demo_OOP_UI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D854D64D-DEB9-4E26-B810-6225AD67A593}|DEMO_POO_Constructeur\\DEMO_POO_Constructeur.csproj|c:\\users\\c.eriksen\\source\\repos\\demo_oop_ui\\demo_poo_constructeur\\demo_poo_constructeur.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{D854D64D-DEB9-4E26-B810-6225AD67A593}|DEMO_POO_Constructeur\\DEMO_POO_Constructeur.csproj|solutionrelative:demo_poo_constructeur\\demo_poo_constructeur.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D854D64D-DEB9-4E26-B810-6225AD67A593}|DEMO_POO_Constructeur\\DEMO_POO_Constructeur.csproj|c:\\users\\c.eriksen\\source\\repos\\demo_oop_ui\\demo_poo_constructeur\\models\\trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D854D64D-DEB9-4E26-B810-6225AD67A593}|DEMO_POO_Constructeur\\DEMO_POO_Constructeur.csproj|solutionrelative:demo_poo_constructeur\\models\\trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,6 +13,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{D854D64D-DEB9-4E26-B810-6225AD67A593}|DEMO_POO_Constructeur\\DEMO_POO_Constructeur.csproj|c:\\users\\c.eriksen\\source\\repos\\demo_oop_ui\\demo_poo_constructeur\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D854D64D-DEB9-4E26-B810-6225AD67A593}|DEMO_POO_Constructeur\\DEMO_POO_Constructeur.csproj|solutionrelative:demo_poo_constructeur\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D854D64D-DEB9-4E26-B810-6225AD67A593}|DEMO_POO_Constructeur\\DEMO_POO_Constructeur.csproj|c:\\users\\c.eriksen\\source\\repos\\demo_oop_ui\\demo_poo_constructeur\\demo_poo_constructeur.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D854D64D-DEB9-4E26-B810-6225AD67A593}|DEMO_POO_Constructeur\\DEMO_POO_Constructeur.csproj|solutionrelative:demo_poo_constructeur\\demo_poo_constructeur.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DF41ACB7-63AF-6EC5-4065-6167BB52BFDA}|Demo_OOP_UI\\Demo_OOP_UI.csproj|c:\\users\\c.eriksen\\source\\repos\\demo_oop_ui\\demo_oop_ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,7 +34,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Person.cs",
               "DocumentMoniker": "C:\\Users\\c.eriksen\\source\\repos\\Demo_OOP_UI\\DEMO_POO_Constructeur\\Models\\Person.cs",
               "RelativeDocumentMoniker": "DEMO_POO_Constructeur\\Models\\Person.cs",
@@ -57,26 +57,29 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-02T08:01:29.006Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Trainer.cs",
               "DocumentMoniker": "C:\\Users\\c.eriksen\\source\\repos\\Demo_OOP_UI\\DEMO_POO_Constructeur\\Models\\Trainer.cs",
               "RelativeDocumentMoniker": "DEMO_POO_Constructeur\\Models\\Trainer.cs",
               "ToolTip": "C:\\Users\\c.eriksen\\source\\repos\\Demo_OOP_UI\\DEMO_POO_Constructeur\\Models\\Trainer.cs",
               "RelativeToolTip": "DEMO_POO_Constructeur\\Models\\Trainer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAACHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-11T12:31:16.038Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DEMO_POO_Constructeur",
+              "DocumentIndex": 3,
+              "Title": "DEMO_POO_Constructeur.csproj",
               "DocumentMoniker": "C:\\Users\\c.eriksen\\source\\repos\\Demo_OOP_UI\\DEMO_POO_Constructeur\\DEMO_POO_Constructeur.csproj",
               "RelativeDocumentMoniker": "DEMO_POO_Constructeur\\DEMO_POO_Constructeur.csproj",
               "ToolTip": "C:\\Users\\c.eriksen\\source\\repos\\Demo_OOP_UI\\DEMO_POO_Constructeur\\DEMO_POO_Constructeur.csproj",
@@ -88,7 +91,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Pokemon.cs",
               "DocumentMoniker": "C:\\Users\\c.eriksen\\source\\repos\\Demo_OOP_UI\\DEMO_POO_Constructeur\\Models\\Pokemon.cs",
               "RelativeDocumentMoniker": "DEMO_POO_Constructeur\\Models\\Pokemon.cs",
@@ -98,10 +101,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-11T12:26:41.146Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         }

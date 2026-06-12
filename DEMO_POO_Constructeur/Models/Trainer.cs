@@ -15,7 +15,7 @@ namespace DEMO_POO_Constructeur.Models
         public Trainer(string title, string lastName,string firstname, DateTime birthDate)
             : base(firstname, lastName, birthDate) //Chainage avec la classe parent (ordre ici est important) -- "super.self" de python
         {
-            Pokemons = [];
+        Pokemons = [];
         Title = title;
         }
 
